@@ -90,5 +90,3 @@ Most active contributors 🚀
   <img src="https://contrib.rocks/image?repo=SabujGolui/SQL-Notes" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
-
